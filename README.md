@@ -17,6 +17,8 @@ Salifort Motors is seeking a method to use employee data to gauge what makes the
 Salifort Motors is a fictional French-based alternative energy vehicle manufacturer. Its global workforce of over 100,000 employees research, design, construct, validate, and distribute electric, solar, algae, and hydrogen-based vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles.        
 
 ## Analyzing Steps
+This project uses PACE workflow to Plan, Analyze, Construct and execute the project.
+![PACE Workflow](https://github.com/fatima526/Salifort_motors_project/blob/main/PACE%20Workflow.png?raw=true)
 
 Steps taken during the analysis process.
 
@@ -27,6 +29,9 @@ Steps taken during the analysis process.
 - Machine Learning Models 
 - Findings and Insights
 - Conclusion  
+
+![Analysis of time of employees spend in the company](https://github.com/fatima526/Salifort_motors_project/blob/main/Histogram%20of%20time%20of%20employees%20spend%20in%20the%20company..png?raw=true)
+
 
 ## Conclusions
 
@@ -41,3 +46,4 @@ Either reward employees for working longer hours, or don't require them to do so
 If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear.
 Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts.
 High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort.
+![Feature importance of this project](https://github.com/fatima526/Salifort_motors_project/blob/main/Feature%20importance%20screenshot.png?raw=true)
