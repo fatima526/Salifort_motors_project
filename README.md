@@ -18,7 +18,7 @@ Salifort Motors is a fictional French-based alternative energy vehicle manufactu
 
 ## Analyzing Steps
 
-Outline the steps taken during the analysis process. You can use bullet points to summarize the key analysis steps.
+Steps taken during the analysis process.
 
 - Data collection
 - Data Preprocessing
